@@ -14,10 +14,10 @@ export default function Footer() {
       </h2>
       
       <p className="max-w-xs sm:max-w-sm md:max-w-md lg:max-w-2xl text-xs sm:text-sm text-[#86bf62] mb-6 sm:mb-8">
-        A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard
+        A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard
         dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a
         type specimen book. A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+        industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
       </p>
       
       <button 

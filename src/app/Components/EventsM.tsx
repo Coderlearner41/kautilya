@@ -11,7 +11,7 @@ export default function Component() {
         <h1 className="text-5xl md:text-8xl font-bold text-[#e75480] mb-4">events.</h1>
         <div className="flex flex-col md:flex-row justify-center">
           <p className="text-[#c37d9b] mb-6 text-lg md:text-2xl max-w-xl mx-auto">
-            A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+            A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys
             standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
             it to make a type specimen book.
           </p>
@@ -41,7 +41,7 @@ export default function Component() {
           <div className="flex flex-col items-center px-4 md:px-10 w-full">
             <h2 className="text-3xl md:text-4xl font-bold text-[#e75480] mb-2 text-center">Mehandi</h2>
             <p className="text-[#c37d9b] font-medium text-sm text-center w-full md:w-[90%] md:max-w-[30vw]">
-              A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+              A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the
               1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
             </p>
           </div>
@@ -60,7 +60,7 @@ export default function Component() {
           <div className="flex flex-col items-center px-4 md:px-10 w-full">
             <h2 className="text-3xl md:text-4xl font-bold text-[#e75480] mb-2 text-center">Haldi</h2>
             <p className="text-[#c37d9b] font-medium text-sm text-center w-full md:w-[90%] md:max-w-[30vw]">
-              A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+              A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the
               1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
             </p>
           </div>
@@ -79,7 +79,7 @@ export default function Component() {
           <div className="flex flex-col items-center px-4 md:px-10 w-full">
             <h2 className="text-3xl md:text-4xl font-bold text-[#e75480] mb-2 text-center">Reception</h2>
             <p className="text-[#c37d9b] font-medium text-sm text-center w-full md:w-[90%] md:max-w-[30vw]">
-              A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+              A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the
               1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
             </p>
           </div>

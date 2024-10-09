@@ -12,7 +12,7 @@ export default function Component() {
         <h1 className="text-8xl font-bold text-[#e75480] mb-4">events.</h1>
         <div className="d-flex">
         <p className="text-[#c37d9b] mb-6 text-2xl max-w-xl">
-          a simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+          a simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys
           standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
           it to make a type specimen book.
         </p>
@@ -43,7 +43,7 @@ export default function Component() {
           <div className="flex column my-10 ml-10">
           <h2 className="text-4xl font-bold text-[#e75480] mb-2" style={{fontSize:"120px"}}>Mehandi</h2>
           <p className="text-[#c37d9b] font-medium text-sm ml-5 relative top-[-20px]" style={{width:"30vw"}}>
-            a simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+            a simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the
             1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
           </p>
           </div>
@@ -62,7 +62,7 @@ export default function Component() {
           <div className="flex column ml-10">
           <h2 className="text-4xl font-bold text-[#e75480] mb-2" style={{fontSize:"120px"}}>Haldi</h2>
           <p className="text-[#c37d9b] font-medium text-sm ml-5 relative top-[-20px]" style={{width:"30vw"}}>
-            a simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+            a simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the
             1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
           </p>
           </div>
@@ -80,7 +80,7 @@ export default function Component() {
           <div className="flex column ml-10 relative top-[-10px]">
           <h2 className="text-4xl font-bold text-[#e75480]" style={{fontSize:"120px"}}>Reception</h2>
           <p className="text-[#c37d9b] font-medium text-sm ml-5 relative top-[-20px]" style={{width:"30vw"}}>
-            a simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+            a simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the
             1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
           </p>
           </div>

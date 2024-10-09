@@ -12,11 +12,11 @@ export default function Component() {
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center md:items-start">
           <div className="w-full md:w-2/3 md:pr-8 mb-8 md:mb-0">
             <p className="text-[#677e58] font-medium text-xs mb-4 text-left md:text-right">
-              A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
+              A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy
               text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
-              book. A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard
+              book. A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard
               dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type
-              specimen book. A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+              specimen book. A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys
               standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a
               type specimen book.
             </p>
@@ -45,10 +45,10 @@ export default function Component() {
             <div className="h-4"></div>
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-[#eef7e9] mb-4">Venue.</h1>
             <p className="text-[#cfffb1] text-sm max-w-2xl text-left">
-              A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown
+              A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown
               printer took a galley of type and scrambled it to make a type specimen book. A simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-              industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. A simply dummy
-              text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of
+              industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. A simply dummy
+              text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of
               type and scrambled it to make a type specimen book.
             </p>
           </div>
