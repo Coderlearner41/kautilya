@@ -86,7 +86,6 @@ export default function Component() {
           </div>
         </div>
       </section>
-      {/* </div> */}
     </div>
   )
 }

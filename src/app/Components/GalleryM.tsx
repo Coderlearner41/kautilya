@@ -3,8 +3,6 @@ import gallery1 from '../assets/gallery1.png'
 import gallery2 from '../assets/gallery2.png'
 import gallery3 from '../assets/gallery3.png'
 import { useState } from 'react'
-import leftFlowers from '../assets/leftFlowers.svg'
-import rightLotus from '../assets/rightLotus.png'
 
 export default function Gallery() {
     const [isAttending, setIsAttending] = useState(false)

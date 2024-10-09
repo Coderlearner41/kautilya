@@ -83,7 +83,7 @@ export default function Home() {
               <h2 className="text-xl sm:text-2xl md:text-3xl mb-8">WE ARE GETTING MARRIED</h2>
               <p className="max-w-2xl mx-auto text-sm sm:text-base opacity-80 relative z-10 px-4 md:px-0">
                 This is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                the industry's standard dummy text ever since the 1500s, when an unknown printer took a
+                the industrys standard dummy text ever since the 1500s, when an unknown printer took a
                 galley of type and scrambled it to make a type specimen book.
               </p>
               <Image 
